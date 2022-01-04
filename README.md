@@ -18,5 +18,4 @@ The created file name is file1.txt. The **README.md** file is also created using
 - git add file1.txt
 - git commit -m "Commiting file"
 - git remote add origin git@github.com:AniSimonyan/Git.git
-- git remote -v
 - git push origin main
